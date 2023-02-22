@@ -58,7 +58,7 @@ function Timeline() {
                             <div className="containertime left">
                                 <div className="content">
                                     <h4>August 2022 - 2023</h4>
-                                    <h3>Study Web app development</h3>
+                                    <h3>Web app development, Diploma</h3>
                                     <div className='companyLink'>
                                         <a href='https://ciccc.ca/' target='-blank'>Cornerstone College</a>
                                     </div>
@@ -67,7 +67,7 @@ function Timeline() {
                             <div className="containertime right">
                                 <div className="content">
                                     <h4>2008-2013</h4>
-                                    <h3>Bachelor's degree of Information Technology</h3>
+                                    <h3>Information Technology, Bachelor of Science</h3>
                                     <div className='companyLink'>
                                         <a href='http://en.pnu.ac.ir/portal/home/?1596402/PNU' target='-blank'>PNU</a>
                                     </div>
