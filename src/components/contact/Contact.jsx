@@ -47,7 +47,7 @@ function Contact() {
                 </div>
                 <form className='contact__form' ref={form} onSubmit={sendEmail}>
                     <input name='fullName' className='contact__form-input' type="text" placeholder='Your Full Name' required />
-                    <input name='email' className='contact__form-input' type="text" placeholder='Your Email' required />
+                    <input name='email' className='contact__form-input' type="text" placeholder='Your Email Here' required />
                     <textarea className='contact__form-input' name="message" id="" rows="10" placeholder='Your Message'></textarea>
                     <button className='btn btn-primary' type='submit'>Send Message</button>
 
