@@ -15,27 +15,33 @@ function Experience() {
                             <div>
                                 <BsPatchCheckFill className='experience__icon' />
                             </div>
-                            <h4>HTML</h4>
+                            <h4>HTML5</h4>
                         </article>
                         <article className='experience__details'>
                             <div>
                                 <BsPatchCheckFill className='experience__icon' />
                             </div>
 
-                            <h4>CSS</h4>
+                            <h4>CSS3</h4>
                         </article>
                         <article className='experience__details'>
                             <div>
                                 <BsPatchCheckFill className='experience__icon' />
                             </div>
 
-                            <h4>JavaScript</h4>
+                            <h4>JavaScript(ES6+)</h4>
                         </article>
                         <article className='experience__details'>
                             <div>
                                 <BsPatchCheckFill className='experience__icon' />
                             </div>
                             <h4>React</h4>
+                        </article>
+                        <article className='experience__details'>
+                            <div>
+                                <BsPatchCheckFill className='experience__icon' />
+                            </div>
+                            <h4>Redux</h4>
                         </article>
                         <article className='experience__details'>
                             <div>
@@ -48,6 +54,11 @@ function Experience() {
                                 <BsPatchCheckFill className='experience__icon' />
                             </div>
                             <h4>Bootstrap</h4>
+                        </article><article className='experience__details'>
+                            <div>
+                                <BsPatchCheckFill className='experience__icon' />
+                            </div>
+                            <h4>Tailwind</h4>
                         </article>
 
                     </div>
@@ -59,7 +70,19 @@ function Experience() {
                             <div>
                                 <BsPatchCheckFill className='experience__icon' />
                             </div>
-                            <h4>NodeJS</h4>
+                            <h4>Node.js</h4>
+                        </article>
+                        <article className='experience__details'>
+                            <div>
+                                <BsPatchCheckFill className='experience__icon' />
+                            </div>
+                            <h4>Express.js</h4>
+                        </article>
+                        <article className='experience__details'>
+                            <div>
+                                <BsPatchCheckFill className='experience__icon' />
+                            </div>
+                            <h4>MySQL</h4>
                         </article>
                         <article className='experience__details'>
                             <div>
@@ -71,25 +94,23 @@ function Experience() {
                             <div>
                                 <BsPatchCheckFill className='experience__icon' />
                             </div>
-                            <h4>JavaScript</h4>
-                        </article>
-                        <article className='experience__details'>
-                            <div>
-                                <BsPatchCheckFill className='experience__icon' />
-                            </div>
-                            <h4>ExpressJS</h4>
-                        </article>
-                        <article className='experience__details'>
-                            <div>
-                                <BsPatchCheckFill className='experience__icon' />
-                            </div>
                             <h4>PHP</h4>
                         </article>
                         <article className='experience__details'>
                             <div>
                                 <BsPatchCheckFill className='experience__icon' />
                             </div>
-                            <h4>MySQL</h4>
+                            <h4>RESTful APIs</h4>
+                        </article><article className='experience__details'>
+                            <div>
+                                <BsPatchCheckFill className='experience__icon' />
+                            </div>
+                            <h4>Unit Testing</h4>
+                        </article><article className='experience__details'>
+                            <div>
+                                <BsPatchCheckFill className='experience__icon' />
+                            </div>
+                            <h4>Git</h4>
                         </article>
                     </div>
                 </div>

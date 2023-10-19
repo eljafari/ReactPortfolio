@@ -1,6 +1,8 @@
 import React from 'react'
 import './about.css'
-import Me from '../../assets/meOffice.png'
+import elhamK from '../../assets/elhamK.jpg';
+import elhamC from '../../assets/elhamC.jpg';
+import elhamB from '../../assets/elhamB.jpg';
 import { FaAward } from 'react-icons/fa'
 import { AiOutlineProject } from 'react-icons/ai'
 
@@ -10,19 +12,21 @@ function About() {
             <h5>Get to Know</h5>
             <h2>About Me</h2>
             <div className='container about__container'>
-                {/* <div className="about__me">
+                <div className="about__me">
                     <div className='about__me-img'>
-                        <img src={Me} alt="Elli at Office" />
+                        <img src={elhamC} alt="Elham Jafari" />
                     </div>
-                </div> */}
+                </div>
                 <div className="about__content">
                     <div className="about__cards">
-                        <article className="about__card">
-                            <FaAward className='about__icon' />
-                            <h5>Experience</h5>
-                            <small>+2 Years Web Development</small>
-                        </article>
-                        <a href="#portfolio">
+
+                        <a href="#experience">
+                            <article className="about__card">
+                                <FaAward className='about__icon' />
+                                <h5>Experience</h5>
+                                <small>+2 Years FullStack Web Development</small>
+                            </article>
+                        </a> <a href="#portfolio">
                             <article className="about__card">
                                 <AiOutlineProject className='about__icon' />
                                 <h5>Projects</h5>
@@ -30,8 +34,15 @@ function About() {
                             </article>
                         </a>
                     </div>
-                    <p>A web developer with a background in Digital Marketing, a passion for user experience and interaction design and strength in creative and strategic thinking. Learning and growing as a developer is crucial to me. I enjoy collaboration with peers and teamwork; I want to hone my skills in Frontend and Backend in small and medium-sized teams.
+                    <p>I'm a passionate full-stack developer, and I absolutely love taking ideas and turning them into powerful web solutions. I'm like a creative techie! I'm well-versed in both the front-end and back-end of web development, which means I can make websites not only look great but also work smoothly.
+                        <br />
+                        I've been fortunate to work on all sorts of projects, from online stores to systems that help manage content. One thing I'm really proud of is how I can take complex requirements and turn them into websites that are not just functional but also super user-friendly.
+
                     </p>
+                    <p>
+                        Teamwork is my forte. Collaborating with designers and project managers, we turn ideas into reality. I'm committed to continuous learning and recently completed advanced courses in React.js and cloud-based development. Beyond coding, you'll find me exploring the outdoors, biking on trails, and camping under the stars. Let's connect and create something amazing together!
+                    </p>
+
                     <a href="#contact" className='btn btn-primary'>Let's Talk</a>
 
                 </div>
