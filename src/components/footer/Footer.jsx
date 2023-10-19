@@ -16,9 +16,9 @@ function Footer() {
 
             </ul>
             <div className="footer__socials">
-                <a href="https://www.linkedin.com/in/eljafari/"><BsLinkedin /></a>
-                <a href="https://github.com/eljafari?tab=repositories"><FaGithub /></a>
-                <a href="https://medium.com/@elijafari"><SiMedium /></a>
+                <a href="https://www.linkedin.com/in/eljafari/" target='-blank'><BsLinkedin /></a>
+                <a href="https://github.com/eljafari?tab=repositories" target='-blank'><FaGithub /></a>
+                <a href="https://medium.com/@elijafari" target='-blank'><SiMedium /></a>
             </div>
             <div className="footer__copyright">
                 <small>&copy; Elham Jafari</small>

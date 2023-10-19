@@ -2,6 +2,7 @@ import React from 'react'
 import './header.css'
 import CTA from './CTA'
 import Elli from '../../assets/Elli.png'
+
 import HeaderSocial from './headerSocial'
 
 function Header() {
@@ -13,11 +14,11 @@ function Header() {
                 <h3>FullStack Web Developer</h3>
                 <CTA />
                 <div className="me">
-                    <img src={Elli} alt="" />
+                    <img src={Elli} alt="Elham Jafari" />
                 </div>
                 <HeaderSocial />
                 <div className="scroll__down">
-                    <a href="">Scroll Down</a>
+                    <a href="#portfolio">Scroll Down</a>
                 </div>
             </div>
 

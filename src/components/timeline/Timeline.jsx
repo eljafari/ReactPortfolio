@@ -12,7 +12,7 @@ function Timeline() {
                             <div className="containertime right">
                                 <div className="content">
                                     <h4>Sep 2022 - Present</h4>
-                                    <h3>Frontend developer<small className='jobLevel'> - Junior</small></h3>
+                                    <h3>Software developer</h3>
                                     <div className='companyLink'>
                                         <a href='https://vfs.edu/' target='-blank'>Vancouver Film School</a>
                                     </div>
@@ -21,7 +21,7 @@ function Timeline() {
                             <div className="containertime left">
                                 <div className="content">
                                     <h4>Jul 2021 - Feb 2022 </h4>
-                                    <h3>Web developer<small className='jobLevel'> - Entry-Level</small></h3>
+                                    <h3>Marketing Web Developer</h3>
                                     <div className='companyLink'>
                                         <a href='https://bekatec.ca//' target='-blank'>Bekatec</a>
                                     </div>
@@ -29,24 +29,33 @@ function Timeline() {
                             </div>
                             <div className="containertime right">
                                 <div className="content">
+                                    <h4>August 2021 - 2023</h4>
+                                    <h3>Web Application Development, Diploma</h3>
+                                    <div className='companyLink'>
+                                        <a href='https://ciccc.ca/' target='-blank'>CICCC</a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div className="containertime left">
+                                <div className="content">
                                     <h4>July 2019 - Dec 2020</h4>
-                                    <h3>Web Developer<small className='jobLevel'> - Entry-Level</small></h3>
+                                    <h3>Marketing Web Developer<small className='jobLevel'> - Entry-Level</small></h3>
                                     <div className='companyLink'>
                                         <a href='https://www.sheypoor.com/' target='-blank'>Sheypoor</a>
                                     </div>
                                 </div>
                             </div>
 
-                            <div className="containertime left">
+                            <div className="containertime right">
                                 <div className="content">
-                                    <h4>August 2018 - Dec 2020</h4>
+                                    <h4>August 2018 - June 2019</h4>
                                     <h3>Digital Marketing Specialist</h3>
                                     <div className='companyLink'>
                                         <a href='https://www.sheypoor.com/' target='-blank'>Sheypoor</a>
                                     </div>
                                 </div>
                             </div>
-                            <div className="containertime right">
+                            <div className="containertime left">
                                 <div className="content">
                                     <h4>May 2016 – Jul 2018</h4>
                                     <h3>Digital Marketing Specialist</h3>
@@ -55,16 +64,16 @@ function Timeline() {
                                     </div>
                                 </div>
                             </div>
-                            <div className="containertime left">
+                            <div className="containertime right">
                                 <div className="content">
-                                    <h4>August 2022 - 2023</h4>
-                                    <h3>Web app development, Diploma</h3>
+                                    <h4> Apr 2015 – May 2016</h4>
+                                    <h3>Webmaster and Customer Support</h3>
                                     <div className='companyLink'>
-                                        <a href='https://ciccc.ca/' target='-blank'>Cornerstone College</a>
+                                        <a href='https://www.Boorsika.com/' target='-blank'>Boorsika</a>
                                     </div>
                                 </div>
                             </div>
-                            <div className="containertime right">
+                            <div className="containertime left">
                                 <div className="content">
                                     <h4>2008-2013</h4>
                                     <h3>Information Technology, Bachelor of Science</h3>
