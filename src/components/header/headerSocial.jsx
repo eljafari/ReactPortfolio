@@ -8,9 +8,9 @@ import { SiMedium } from 'react-icons/si'
 function HeaderSocial() {
     return (
         <div className='header__socials'>
-            <a target='-blank' href="https://www.linkedin.com/in/eljafari/"><BsLinkedin /></a>
-            <a target='-blank' href="https://github.com/eljafari?tab=repositories"><FaGithub /></a>
-            <a target='-blank' href="https://medium.com/@elijafari"><SiMedium /></a>
+            <a target='_blank' href="https://www.linkedin.com/in/eljafari/"><BsLinkedin /></a>
+            <a target='_blank' href="https://github.com/eljafari?tab=repositories"><FaGithub /></a>
+            <a target='_blank' href="https://medium.com/@elijafari"><SiMedium /></a>
         </div>
     )
 }

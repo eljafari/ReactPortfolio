@@ -1,5 +1,5 @@
 import React from "react";
-import ElhamJafariFullStack from '../../assets/ElhamJafariFullStack.pdf'
+import ElhamJafariFullStack from '../../assets/Elham-FullStack Dev.pdf'
 
 function CTA() {
     return (

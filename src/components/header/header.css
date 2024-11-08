@@ -39,12 +39,11 @@ header {
 .me {
     background: radial-gradient(var(--color-primary), transparent);
     width: 14rem;
-    height: 19rem;
     position: absolute;
     left: calc(50% - 7rem);
     margin-top: 4rem;
     border-radius: 12rem 12rem 0 0;
-    padding-top: 1.5rem;
+    clip-path: border-box;
 }
 
 /* ------Header Scroll--------- */
@@ -58,19 +57,11 @@ header {
 }
 
 /* ------Media Queries Medium Devices--------- */
-@media screen and (max-width:1024px) {
-    header {
-        height: 68vh;
-    }
-}
-
-/* ------Media Queries Medium Devices--------- */
 @media screen and (max-width:600px) {
     header {
         height: 100vh;
     }
 
-    .header__socials,
     .scroll__down {
         display: none;
     }
